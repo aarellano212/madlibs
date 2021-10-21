@@ -7,3 +7,9 @@ body {
 a {
   color: #00B7FF;
 }
+img{
+  width: 200px;
+}
+.random {
+  font-size: 30px;
+}
